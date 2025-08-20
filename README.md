@@ -23,22 +23,25 @@ The project uses YouTube comments and transcripts to study how people discuss sp
 
 ---
 
-## Packages Used
-pandas
-numpy
-scikit-learn
-matplotlib
-tqdm
-requests
-transformers
-torch
+## Key Libraries
+
+The project relies on the following Python libraries:
+
+- `pandas`, `numpy`, `scikit-learn`  
+- `matplotlib`, `seaborn`  
+- `transformers`, `torch`  
+- `tqdm`, `requests`  
+
 
 ## API Keys
-YOUTUBE_API_KEY=...
-OPENAI_API_KEY=...
-AZURE_OPENAI_ENDPOINT=...
-AZURE_OPENAI_KEY=...
-BING_SEARCH_KEY=...
+
+To run the notebooks, you’ll need to set the following keys in a `.env` file (do not commit this file to GitHub):
+
+- `YOUTUBE_API_KEY=...`  
+- `OPENAI_API_KEY=...`  
+- `AZURE_OPENAI_ENDPOINT=...`  
+- `AZURE_OPENAI_KEY=...`  
+- `BING_SEARCH_KEY=...`  
 
 ## Workflow
 
