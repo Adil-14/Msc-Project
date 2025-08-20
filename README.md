@@ -10,14 +10,15 @@ The project uses YouTube comments and transcripts to study how people discuss sp
 
 ## Repository structure
 
-├── Claim_Detection_BingGrounding/ # claim detection and verification with Bing grounding
-├── Datasets/ # cleaned and final datasets
-├── DistilBERT_Prediction/ # transformer-based sentiment prediction
-├── Network_Analysis_Gephi/ # exports for Gephi network analysis
-├── OpenAI_Submissions/ # OpenAI batch prompts and classification scripts
-├── Sentiment/ # classical ML sentiment baselines
-├── Temporal_Tagging/ # temporal trend analysis
-├── Youtube_Data_Scraper/ # YouTube comment and transcript collection
+- **Claim_Detection_BingGrounding/** – claim detection and verification with Bing grounding  
+- **Datasets/** – cleaned and final datasets  
+- **DistilBERT_Prediction/** – transformer-based sentiment prediction  
+- **Network_Analysis_Gephi/** – exports for Gephi network analysis  
+- **OpenAI_Submissions/** – OpenAI batch prompts and classification scripts  
+- **Sentiment/** – classical ML sentiment baselines  
+- **Temporal_Tagging/** – temporal trend analysis  
+- **Youtube_Data_Scraper/** – YouTube comment and transcript collection  
+
 
 
 ---
